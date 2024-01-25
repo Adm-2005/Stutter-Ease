@@ -1,0 +1,15 @@
+venv/
+.config/
+.upm/
+
+/poetry.lock
+/pyproject.toml
+/.replit
+/replit.nix
+
+StutterEase/__pycache__/
+Api/__pycache__/
+Api/migrations/
+
+*.sqlite3
+
