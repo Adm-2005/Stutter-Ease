@@ -15,8 +15,8 @@
 - **Back-End:**
   1. Django REST Framework
      
-- **APIs:**
-  1. OpenAI API
+- **Models**
+  1. DialoGPT
 
 ## Useful Links
 1. **Documentation:** [Stutter-Ease-Documentation]()

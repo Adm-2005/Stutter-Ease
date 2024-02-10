@@ -1,0 +1,10 @@
+venv
+.upm
+poetry.lock
+pyproject.toml
+.replit
+replit.nix
+talkbot/__pycache__
+talkbot/migrations
+backend/__pycache__
+.config
